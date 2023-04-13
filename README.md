@@ -1,5 +1,5 @@
 # html
-html works
+
 https://arifoglu.github.io/html/homework/week1/HTML_Week1_Abdulkadir_Arifoglu_index.html
 https://arifoglu.github.io/html/homework/week2/HTML_Week2_Abdulkadir_Arifoglu_Profile.html
 https://arifoglu.github.io/html/homework/week2/HTML_Week2_Abdulkadir_Arifoglu_WheatherStation.html
